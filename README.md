@@ -1,6 +1,6 @@
 ### Hi there, I'm Dennis 👋
 
-:man_office_worker: I work at [Xebia Microsoft Services](https://xebia.com/digital-transformation/microsoft-solutions/). 
+:man_office_worker: I work at [Xebia Microsoft Services](https://xebia.com/digital-transformation/microsoft-solutions/) in the Netherlands. 
 
 📫 You can reach me at dennis.thie@xebia.com
 
