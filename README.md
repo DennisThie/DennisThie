@@ -1,4 +1,4 @@
-### Hi there, I'm Dennis 👋
+### 👋 👋 Hi there, I'm @DennisThie and I'm not a developer.
 
 :man_office_worker: I work at [Xebia | Microsoft Services](https://xebia.com/digital-transformation/microsoft-solutions/) in the Netherlands.
 
