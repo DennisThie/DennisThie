@@ -6,6 +6,7 @@
 
 :handshake: Let's connect! [LinkedIn](https://linkedin.com/in/dennisthie)
 
-<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width=200px><img src="https://images.credly.com/size/680x680/images/7b17fa15-7d34-4b56-88ec-161be67853ed/image.png" width=200px>
-<img src="https://images.credly.com/size/680x680/images/b8050ac2-6bfb-4457-8ad5-026e3018d5c9/image.png" width=200px><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=200px>
+<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width=200px><img src="https://github.com/user-attachments/assets/59e25cdb-1311-4df6-93e0-2b1f3a0dcc8e" width=200px>
+<img src="https://github.com/user-attachments/assets/cf3eb70d-4d52-4413-af55-fbbb87f75257" width=200px><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=200px>
 <img src="https://images.credly.com/size/680x680/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" width=200px>
+
