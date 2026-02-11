@@ -14,7 +14,7 @@
 *GitHub Foundations*
 
 ### GitHub Partner Credentials
-<a href="https:<!--www.credly.com/badges/1e98419c-02cf-4e40-a994-4664374801a3"><img src="https://images.credly.com/size/680x680/images/594e9ab8-7187-44f0-b87d-4753d3dc0079/blob" width=130px></a>
+<a href="https:<!--www.credly.com/badges/1e98419c-02cf-4e40-a994-4664374801a3"><img src="https://images.credly.com/size/680x680/images/594e9ab8-7187-44f0-b87d-4753d3dc0079/blob" width=125px></a>
 <a href="https:<!--www.credly.com/badges/1656e5f5-6f34-4680-9e77-532f5b15562a"><img src="https://images.credly.com/size/680x680/images/965532be-0de5-469c-b7aa-266440f4b6eb/blob" width=120px></a>
 <a href="https:<!--www.credly.com/badges/d3b37e46-1f17-429f-b3cd-8caed7e3130b"><img src="https://images.credly.com/size/680x680/images/2eb00d3c-cc28-4381-b861-c5b9dc2776ea/blob" width=120px></a>
 
