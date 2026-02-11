@@ -9,14 +9,14 @@
 ## 🏆 Certifications & Badges
 
 ### GitHub Certifications
-<a href="https:<!--www.credly.com/earner/earned/badge/c5ead1b8-0068-46c7-b3a6-20729c300cb7"><img src="https://github.com/user-attachments/assets/11c4e703-deaa-4689-aadd-89f4d48f5afc" width=120px></a>
+<a href="https:<!--www.credly.com/earner/earned/badge/c5ead1b8-0068-46c7-b3a6-20729c300cb7"><img src="https://github.com/user-attachments/assets/11c4e703-deaa-4689-aadd-89f4d48f5afc" width=140px></a>
 
 *GitHub Foundations*
 
 ### GitHub Partner Credentials
 <a href="https:<!--www.credly.com/badges/1e98419c-02cf-4e40-a994-4664374801a3"><img src="https://images.credly.com/size/680x680/images/594e9ab8-7187-44f0-b87d-4753d3dc0079/blob" width=120px></a>
-<a href="https:<!--www.credly.com/badges/1656e5f5-6f34-4680-9e77-532f5b15562a"><img src="https://images.credly.com/size/680x680/images/965532be-0de5-469c-b7aa-266440f4b6eb/blob" width=120px></a>
-<a href="https:<!--www.credly.com/badges/d3b37e46-1f17-429f-b3cd-8caed7e3130b"><img src="https://images.credly.com/size/680x680/images/2eb00d3c-cc28-4381-b861-c5b9dc2776ea/blob" width=120px></a>
+<a href="https:<!--www.credly.com/badges/1656e5f5-6f34-4680-9e77-532f5b15562a"><img src="https://images.credly.com/size/680x680/images/965532be-0de5-469c-b7aa-266440f4b6eb/blob" width=140px></a>
+<a href="https:<!--www.credly.com/badges/d3b37e46-1f17-429f-b3cd-8caed7e3130b"><img src="https://images.credly.com/size/680x680/images/2eb00d3c-cc28-4381-b861-c5b9dc2776ea/blob" width=140px></a>
 
 *GitHub Advanced Security Partner Delivery Credential • GitHub Migrations Partner Delivery Credential • AzureDevOps to GitHub Migrations Delivery Credential*
 
@@ -35,8 +35,8 @@
 *FY26 GitHub Advanced Security Sales Badge • FY26 GitHub Copilot Sales Badge • FY26 GitHub Platform Sales Badge • FY26 GitHub Revenue Motions Sales Badge*
 
 ### Microsoft & Other Certifications
-<a href="https://www.credly.com/badges/cec0b0b5-c0de-4318-bfed-cafd769f054e"><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=120px></a>
-<a href="https://www.credly.com/badges/5853afd8-df51-42ad-9b79-5b7ce1930a63"><img src="https://images.credly.com/size/680x680/images/591762c5-fae7-49c6-b326-e1756979928d/image.pngg" width=120px></a>
+<a href="https://www.credly.com/badges/cec0b0b5-c0de-4318-bfed-cafd769f054e"><img src="https://images.credly.com/size/680x680/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" width=120px></a>
+<a href="https://www.credly.com/badges/5853afd8-df51-42ad-9b79-5b7ce1930a63"><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=120px></a>
 
 *Professional Scrum Product Owner™ I (PSPO I) • Microsoft Certified: Azure Fundamentals*
 
