@@ -22,8 +22,8 @@
 
 ### GitHub Sales Badges
 <a href="https:<!--www.credly.com/badges/9404617a-a1ee-439a-b236-c0417da7d81d"><img src="https://images.credly.com/size/680x680/images/33114f54-24fd-4187-8a53-9be8dfd7f4f7/blob" width=120px></a>
-<a href="https:<!--www.credly.com/earner/earned/badge/7d771736-081d-4960-a296-b62f7ad80a8f"><img src="https://github.com/user-attachments/assets/ae344551-0a3c-408b-a33f-3c51986e69fb" width=120px></a>
-<a href="https:<!--www.credly.com/earner/earned/badge/c365e0b1-0975-497c-8df4-88427e7082dc"><img src="https://github.com/user-attachments/assets/a534da65-db11-4ed3-be2b-89314b480632" width=120px></a>
+<a href="https:<!--www.credly.com/earner/earned/badge/7d771736-081d-4960-a296-b62f7ad80a8f"><img src="https://github.com/user-attachments/assets/ae344551-0a3c-408b-a33f-3c51986e69fb" width=125px></a>
+<a href="https:<!--www.credly.com/earner/earned/badge/c365e0b1-0975-497c-8df4-88427e7082dc"><img src="https://github.com/user-attachments/assets/a534da65-db11-4ed3-be2b-89314b480632" width=125px></a>
 
 *FY26 GitHub Sales Professional • GitHub Tech Sales Professional • GitHub Sales Professional*
 
