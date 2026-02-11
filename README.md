@@ -11,6 +11,7 @@
 ### GitHub Certifications
 <!--GitHub Foundations -->
 <a href="https:<!--www.credly.com/earner/earned/badge/c5ead1b8-0068-46c7-b3a6-20729c300cb7"><img src="https://github.com/user-attachments/assets/11c4e703-deaa-4689-aadd-89f4d48f5afc" width=150px></a>
+
 GitHub Foundations
 
 ### GitHub Partner Credentials
@@ -23,7 +24,7 @@ GitHub Foundations
 <!-- AzureDevOps to GitHub Migrations Delivery Credential -->
 <a href="https:<!--www.credly.com/badges/d3b37e46-1f17-429f-b3cd-8caed7e3130b"><img src="https://images.credly.com/size/680x680/images/2eb00d3c-cc28-4381-b861-c5b9dc2776ea/blob" width=150px></a>
 
-*GitHub Sales Professional • GitHub Tech Sales Professional • GitHub Advanced Security Partner Delivery Credential • GitHub Migrations Partner Delivery Credential • GitHub Migrations Partner Delivery Credential • AzureDevOps to GitHub Migrations Delivery Credential*
+*GitHub Advanced Security Partner Delivery Credential • GitHub Migrations Partner Delivery Credential • AzureDevOps to GitHub Migrations Delivery Credential*
 
 ### GitHub Sales Badges
 <!-- GitHub FY26 Sales Professional -->
@@ -34,6 +35,8 @@ GitHub Foundations
 
 <!-- GitHub Tech Sales Professional -->
 <a href="https:<!--www.credly.com/earner/earned/badge/c365e0b1-0975-497c-8df4-88427e7082dc"><img src="https://github.com/user-attachments/assets/a534da65-db11-4ed3-be2b-89314b480632" width=150px></a>
+
+*FY26 GitHub Sales Professional • GitHub Tech Sales Professional • GitHub Sales Professional • FY26 GitHub Advanced Security Sales Badge 
 
 <!-- FY26 GitHub Advanced Security Sales Badge -->
 <a href="https:<!--www.credly.com/earner/earned/badge/9bc81355-3ec5-4644-8060-c8543d45532d"><img src="https://github.com/user-attachments/assets/a737a042-687d-4b3f-8796-bf83f0bbc996" width=120px></a>
@@ -47,7 +50,7 @@ GitHub Foundations
 <!-- FY26 GitHub Revenue Motions Sales Badge -->
 <a href="https:<!--www.credly.com/earner/earned/badge/722e8b9c-2708-433f-80d8-c4537ff4f832"><img src="https://github.com/user-attachments/assets/777d0bb6-5844-4bd4-bdda-3a1499674ae8" width=120px></a>
 
-*FY26 GitHub Sales Professional • GitHub Tech Sales Professional • GitHub Sales Professional • FY26 GitHub Advanced Security Sales Badge • FY26 GitHub Copilot Sales Badge • FY26 GitHub Platform Sales Badge • FY26 GitHub Revenue Motions Sales Badge*
+*• FY26 GitHub Copilot Sales Badge • FY26 GitHub Platform Sales Badge • FY26 GitHub Revenue Motions Sales Badge*
 
 ### Microsoft & Other Certifications
 <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=150px>
